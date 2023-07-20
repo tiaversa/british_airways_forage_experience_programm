@@ -17,3 +17,17 @@ Based on the guidelines of the companies project, this is the created code and d
 >Your manager would like you to summarise your findings within a single PowerPoint slide, so that they can present the results at the next board meeting. You should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from your analysis. Use the “PowerPoint Template” provided to complete the slide.
 >
 >Once you’ve completed your PowerPoint, please submit your document below.
+
+## Project Development
+- First step on this project was the performing of the webscraping and adding the data to a csv file.
+- Next I pulled the information from the created file into aa dataframe.
+- We were about to create a word cloud out all all the reviews gathered.
+- Next we uploaded the data into an S3 bucket.
+
+
+
+
+Sources:
+- [British Airways Forage](https://www.theforage.com/virtual-internships/NjynCWzGSaWXQCxSX?ref=CqLn2n5HaXB37dWYK)
+- [S3 Connections and Use](https://www.youtube.com/playlist?list=PLM8NZtw4vOVCLSsXwRga-MLQHG_RmqUjP)
+- [S3 Python Documentation](https://realpython.com/python-boto3-aws-s3/)
